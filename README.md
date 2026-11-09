@@ -31,3 +31,4 @@ window.HappyKids.addStars(1);
 ```
 
 目前資料存在使用者自己的瀏覽器 LocalStorage；清除瀏覽器網站資料時，星星紀錄也會被清除。
+Happy Kids website setup
